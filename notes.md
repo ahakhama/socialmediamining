@@ -20,6 +20,7 @@ What other sources for SCOTUS data can I use?
 	- WashU Law DB (link above)
 
 Comparing sentiment of the Supreme Court vs. Twitter over the past decade? 
+What if we compared the sentiment of a particular social topic on Twitter to the number (some quantifiable) of cases on the Supreme Court docket in a given year on that particular topic. Is there a way to quantify polarization - e.g. how strongly people feel and the number of people who feel that way? 
 
 Look at some of the corpus of tweets to see if there's anything interesting going on - 
 Find a particular topic on twitter, map it out, and see if there's a corresponding rise in the number/frequency etc... (landmark?) of cases on that topic some months later. Hypothesis is that the 
